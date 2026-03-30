@@ -1,0 +1,10 @@
+Rice 5 3.5
+Beans 2 1.5
+Bread 1 2.0
+Milk 3 1.2
+Eggs 12 0.1
+Cheese 1 4.0
+Chicken 2 5.0
+Fish 1 6.0
+Vegetables 4 0.8
+Fruits 3 1.0

@@ -1,0 +1,22 @@
+Product: 
+Apple Quantity: 10 	 Price: $0.50
+Product: 
+Banana Quantity: 5 	 Price: $0.30
+Product: 
+Orange Quantity: 8 	 Price: $0.40
+Product: 
+Grapes Quantity: 12 	 Price: $0.60
+Product: 
+Mango Quantity: 7 	 Price: $0.80
+Product: 
+Pineapple Quantity: 3 	 Price: $1.00
+Product: 
+Strawberry Quantity: 15 	 Price: $0.20
+Product: 
+Blueberry Quantity: 20 	 Price: $0.40
+Product: 
+Watermelon Quantity: 4 	 Price: $1.50
+Product: 
+Peach Quantity: 6 	 Price: $0.70
+
+Total quantity = 90
